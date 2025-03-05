@@ -1,0 +1,8 @@
+torch
+sentencepiece
+streamlit
+datasets
+numpy
+tqdm
+sacrebleu
+torchinfo

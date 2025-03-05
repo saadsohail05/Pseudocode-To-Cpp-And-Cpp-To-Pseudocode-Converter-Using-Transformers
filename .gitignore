@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+Notebooks/.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# # Model files and large data files
+# *.pt
+# *.model
+# *.vocab
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.log
+
+# Distribution / packaging
+*.tar.gz
+*.zip
+*.rar
